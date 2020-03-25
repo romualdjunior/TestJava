@@ -5,6 +5,7 @@
  */
 //j'aimerais manger de la banane comment je dois faire pour y arriver 
 // moi j'aimerais manger de la banane 
+//moi aussi j'ai de même travailler avec notre projet 
 package com.esprit.Entite;
 
 /**
